@@ -1,7 +1,7 @@
 # LP Practice: SQL Interpreter pandaQ
 
 ## Installation & Execution
-1) First, after downloading the files from the `.zip`, you need to compile the grammar:
+1) First, after downloading the files, you need to compile the grammar:
 ```bash
 antlr4 -Dlanguage=Python3 -no-listener -visitor pandaQ.g4 
 ```
