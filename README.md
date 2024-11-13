@@ -1,4 +1,5 @@
 # LP Practice: SQL Interpreter pandaQ
+**Grade Achieved**: **9.00**
 
 ## Installation & Execution
 1) First, after downloading the files, you need to compile the grammar:
